@@ -7,19 +7,14 @@ const headers = {
 const SESSION_PAYLOAD = {
 "challengeTypes":["assist","characterIntro","characterMatch","characterPuzzle","characterSelect","characterTrace","characterWrite","completeReverseTranslation","definition","dialogue","form","freeResponse","gapFill","judge","listen","listenComplete","listenMatch","match","name","listenComprehension","listenIsolation","listenSpeak","listenTap","orderTapComplete","partialListen","partialReverseTranslate","patternTapComplete","readComprehension","reverseAssist","select","selectPronunciation","selectTranscription","svgPuzzle","syllableTap","syllableListenTap","speak","tapCloze","tapClozeTable","tapComplete","tapCompleteTable","tapDescribe","translate","transliterate","transliterationAssist","typeCloze","typeClozeTable","typeComplete","typeCompleteTable","writeComprehension"],
 "fromLanguage":"en",
-"isFinalLevel":false,
+"isFinalLevel":true,
 "isV2":true,
 "juicy":true,
 "learningLanguage":"ru",
 "smartTipsVersion":2,
-"isCustomIntroSkill":false,
-"isGrammarSkill":false,
 "levelIndex":0,
-"pathExperiments":[],
-"showGrammarSkillSplash":false,
-"skillId":"35f529cbb85fef59e65313322de8ae3b",
-"type":"LESSON",
-"levelSessionIndex":3
+"skillId":"effa43be1b707726ad6309d608272437",
+"type":"LEGENDARY_LEVEL"
 }
 
 const {
